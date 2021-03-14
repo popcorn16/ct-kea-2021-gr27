@@ -10,7 +10,7 @@ The database contains a DDL and DML script.
 3. Once the data has been imported, open the DML script and use one of the scripts in order to show each table content.
 4. There has been provided a script in order to create a 'View' for each of the three work fields.
 
-The Survey_results_final is a spreadsheet which contains information from 50 fictive users. 
+The Survey_final is a spreadsheet which contains information from 50 fictive users. 
 
 Warning: When using the Wizard import on Questions.csv, make sure to disable all the boxes with "MyUnknownColumn". Any doubts about this can be clarified in the png-file.
 
