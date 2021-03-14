@@ -1,0 +1,152 @@
+User_ID;User_First_Name;User_Surname;User_DoB;User_Gender;User_Time_Zone;User_Email;Creative_score;Development_score;DigitalMarketing Score
+1;Kim;Pedersen;1993-10-12;M;GMT +1;Kim_Ped93@hotmail.com;17%;33%;50%
+2;Louise;Henriksen;1999-08-19;F;GMT +1;Louise_Henriksen99@hotmail.com;58%;17%;25%
+3;Niklas;Huberts;1998-04-21;M;GMT +1;Niklas_Berts@outlook.com;17%;83%;0%
+4;Anton;Johansen;2000-02-17;M;GMT +1;Antonjohansen@gmail.com;8%;8%;83%
+5;Jonas;Bergholm;1997-01-27;M;GMT +1;Jonas.bergholm97@outlook.com;58%;8%;33%
+6;Nikolaj;Forjan;1994-05-21;M;GMT +1;Nikolaj.forjan@hotmail.dk;17%;58%;25%
+7;Soeren;Jonsen;1992-09-10;M;GMT +1;Soeren_joonsen@gmail.com;25%;58%;17%
+8;Thomas;Henriksen;1992-12-12;M;GMT +1;Thomas_h92@gmail.com;17%;8%;75%
+9;Rikke;Bondesen;1994-06-19;F;GMT +1;Rikkebondesen1@hotmail.dk;50%;17%;33%
+10;Suzanne;Munk;1992-03-09;F;GMT +1;Suzanne.munks@hotmail.com;25%;67%;8%
+11;Sofia;Larsen;1999-12-10;F;GMT +1;Sofia.larsen99@gmail.com;42%;8%;50%
+12;Henrik;Wiingaard;1996-12-10;M;GMT +1;Henrikwiingaaard@hotmail.dk;25%;58%;17%
+13;Christoffer;Lykke;1996-12-20;M;GMT +1;Christoffer_lykke@gmail.com;17%;0%;83%
+14;Martin;Vejen;1992-03-21;M;GMT +1;Martin.vejen92@yahoo.dk;42%;33%;25%
+15;Emilie;Hjarsoee;1992-06-18;F;GMT +1;Emilie_hj@outlook.dk;25%;8%;67%
+16;Ida;Toft;1995-03-26;F;GMT +1;Idatofts@hotmail.com;33%;17%;50%
+17;Markus;Panstrup;1990-05-06;M;GMT +1;Markuspanstrup@outlook.dk;8%;67%;25%
+18;Julie;Quist;1997-08-11;F;GMT +1;Julie.quist@gmail.com;67%;25%;8%
+19;Jens;Bollerup;1989-02-26;M;GMT +1;Jens.bollerup89@outlook.com;17%;42%;42%
+20;Hannah;Andersen;1996-09-22;F;GMT +1;Hannah_andersen96@hotmail.com;50%;8%;42%
+21;Katrine;Heier;1998-11-07;F;GMT +1;Katrineheier20@yahoo.dk;33%;50%;17%
+22;Knud;Skov;1998-11-08;M;GMT +1;Knud_skov98@hotmail.dk;17%;75%;8%
+23;Mikail;Ozcan;1994-09-22;M;GMT +1;Ozcan_m@gmail.com;50%;17%;33%
+24;Mohammed;Safran;1996-04-18;M;GMT +1;Mo_safran@outlook.dk;17%;25%;58%
+25;Anya;Christiansen;1996-12-21;F;GMT +1;Anyaa96@hotmail.com;50%;17%;33%
+26;Sofie;Soederholm;1998-05-21;F;GMT +1;Sofiesoederholm@outlook.dk;58%;17%;25%
+27;Ahmed;Hussain;1991-04-17;M;GMT +1;Ahmed.hussain@gmail.com;17%;58%;25%
+28;David;Colsted;1989-01-31;M;GMT +1;David_c89@hotmail.dk;17%;42%;42%
+29;Josefine;Stjernborg;1991-03-23;F;GMT +1;Jose_stjernborg@gmail.com;58%;17%;25%
+30;Pernille;Jensen;1997-03-22;F;GMT +1;Pernille.jensen97@gmail.com;42%;17%;42%
+31;Henrik;Andersen;1998-04-24;M;GMT +1;Hen_andersen@hotmail.com;17%;33%;50%
+32;Patrick;Christiansen;1999-05-19;M;GMT +1;Patrickz99@hotmail.dk;25%;67%;8%
+33;Ida;Lindhardtsen;1990-04-15;F;GMT +1;Ida@lindhartsen.dk;58%;8%;33%
+34;Hans;Pilgaard;1993-01-09;M;GMT +1;Piilgaard93@yahoo.dk;25%;42%;33%
+35;Caroline;Joergensen;1996-10-29;F;GMT +1;Carolinejoergensen96@gmail.com;17%;17%;67%
+36;Heidi;Andersen;1993-06-30;F;GMT +1;Heidi@andersen.dk;50%;33%;17%
+37;Pia;Schmidt;1999-01-20;F;GMT +1;Piaaschmidt@gmail.com;33%;50%;17%
+38;Birte;Goth;1997-12-18;F;GMT +1;Bgoth@hotmail.dk;58%;17%;25%
+39;Lennart;Hansen;1989-09-27;M;GMT +1;Lennart.hansen@yahoo.dk;17%;25%;58%
+40;Kristian;Bach;1989-01-11;M;GMT +1;Krisbach@hotmail.dk;17%;50%;33%
+41;Rawid;Ayoub;1991-12-21;M;GMT +1;Aayoub@outlook.com;58%;33%;8%
+42;Ditte;Hansen;1997-04-26;F;GMT +1;Ditte.h.ansen@hotmail.com;33%;25%;42%
+43;Maggie;Takho;1995-01-24;F;GMT +1;Maggietakho@yahoo.dk;58%;17%;25%
+44;Ditte;Laursen;1992-11-19;F;GMT +1;Ditte_laursen92@outlook.dk;58%;8%;33%
+45;Anna;Nielsen;1998-04-17;F;GMT +1;Anna.nielsen98@hotmail.com;17%;33%;50%
+46;Dorte;Joergensen;1997-11-18;F;GMT +1;Dortejorgen1@gmail.com;33%;50%;17%
+47;Alfred;Lystrup;1997-08-03;M;GMT +1;Alfred@lystrup.dk;17%;58%;25%
+48;Jakob;Heide;1993-11-10;M;GMT +1;Heidejakob@hotmail.com;58%;33%;8%
+49;Jonas;Koehler;1998-12-22;M;GMT +1;Jonas.koehler@gmail.com;17%;33%;50%
+50;Jon;Moeller;1996-03-12;M;GMT +1;Jonmoeller96@outlook.dk;58%;17%;25%
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
