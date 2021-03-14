@@ -5,6 +5,8 @@ This database has been designed specifically to Coderstrust in order to analyze 
 
 The database contains a DDL and DML script.
 
+Use MySQLWorkbench in order to import the CSV.documents via the Wizard import option.
+
 1. Execute the DDL script creating the five tables individually.
 2. Use the 'Table Data Wizard Import' in MySQLWorkbench to import all the different tables.
 3. Once the data has been imported, open the DML script and use one of the scripts in order to show each table content.
